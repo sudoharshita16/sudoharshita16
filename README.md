@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudoharshita16
+- 👋 Hi, I’m Harshita Nag
 - 👀 I’m interested in Web Development and Open Source Development
 - 🌱 I’m currently learning ReactJS for Frontend. 
 - 💞️ I’m looking to collaborate on MERN stack Projects. 
