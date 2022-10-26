@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harshita Nag
-- 👀 I’m interested in Web Development and Open Source Development
-- 🌱 I’m currently learning ReactJS, Golang, NodeJS. 
+- 👀 I’m interested in Web Development and Open Source Development 
 - 💞️ I’m looking to collaborate on MERN stack Projects. 
 - 📫 How to reach me:-
 - Email: nagharshita16@gmail.com
