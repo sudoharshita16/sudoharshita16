@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Harshita Nag
-- 👀 I’m interested in Web Development and Open Source Development 
-- 💞️ I’m looking to collaborate on MERN stack Projects. 
+- 👀 Currently I work as Software Engineer 2 at EagleView
+- 💞️ I come with rich experience in working in AWS Cloud Technology, Kafka Messaging System, and working in Microservice Architecture
+- I have previously been an Open Source Contributor at LibreOffice Project and have also been a winner in the Month of LibreOffice, May 2021.
 - 📫 How to reach me:-
 - Email: nagharshita16@gmail.com
 
