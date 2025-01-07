@@ -1,8 +1,4 @@
 - 👋 Hi, I’m Harshita Nag
-- 👀 I work as Software Engineer 2 at EagleView
-- 💞️ I come with rich experience in working in AWS Cloud Technology, Kafka Messaging System, and working in Microservice Architecture
-- Before this, I worked as a QA Engineer Intern at Paytm where I was part of the Performance Testing Team.
-- I have previously been an Open Source Contributor at LibreOffice Project and have also been a winner in the Month of LibreOffice, May 2021.
 - 📫 How to reach me:-
   -   Email: nagharshita16@gmail.com
 
